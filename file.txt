@@ -1,5 +1,1 @@
-jj<<<<<<< HEAD
-ra
-=======
-hello
->>>>>>> 2252548a127c01f1d8afd4e442883bfccc51b911
+first line
